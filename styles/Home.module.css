@@ -1,0 +1,68 @@
+.container {
+  padding: 0 2rem;
+}
+.main{
+  display: flex;
+  width: 1300px;
+} 
+.section {
+  height: 621px;
+  width: 745px;
+}
+.contentbx{
+  height: 621px;
+  width: 600px;
+  padding: 50px 0px 0px 50px;
+}
+.contentbx .forgot{
+  margin-left: 270px;
+}
+.contentbx .btn{
+  position: absolute;
+  width: 120px;
+  height: 39px;
+  margin-top: 20px;
+  
+  background: #00C0F3;
+  
+}
+
+.input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.h2{
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.vector{
+  margin-top: 50px;
+  margin-bottom: 10px;
+ 
+}
+.h3{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #00C0F3;
+}
+.remember{
+  margin-top: 20px;
+}
+.display{
+  margin-top: 60px;
+}
+.button{
+  margin-top: 2rem;
+  width: 80px;
+  height: 30px;
+  color: white;
+  background-color: #00C0F3;
+  border: none;
+}
